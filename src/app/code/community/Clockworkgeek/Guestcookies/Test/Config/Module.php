@@ -4,6 +4,6 @@ class Clockworkgeek_Guestcookies_Test_Config_Module extends EcomDev_PHPUnit_Test
     public function testModuleParams()
     {
         $this->assertModuleCodePool("community");
-        $this->assertModuleVersion("1.0.0");
+        $this->assertModuleVersion("1.0.6");
     }
 }
