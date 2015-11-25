@@ -1,0 +1,24 @@
+
+src/app/code/community/Clockworkgeek/Guestcookies/Model/Resource/Quote.php   app/code/community/Clockworkgeek/Guestcookies/Model/Resource/Quote.php
+src/app/code/community/Clockworkgeek/Guestcookies/Model/Resource/Quote/Collection.php   app/code/community/Clockworkgeek/Guestcookies/Model/Resource/Quote/Collection.php
+src/app/code/community/Clockworkgeek/Guestcookies/Model/Quote.php   app/code/community/Clockworkgeek/Guestcookies/Model/Quote.php
+src/app/code/community/Clockworkgeek/Guestcookies/Model/System/Source/Lifetimes.php   app/code/community/Clockworkgeek/Guestcookies/Model/System/Source/Lifetimes.php
+src/app/code/community/Clockworkgeek/Guestcookies/Model/Cookie/Abstract.php   app/code/community/Clockworkgeek/Guestcookies/Model/Cookie/Abstract.php
+src/app/code/community/Clockworkgeek/Guestcookies/Model/Compare.php   app/code/community/Clockworkgeek/Guestcookies/Model/Compare.php
+src/app/code/community/Clockworkgeek/Guestcookies/Model/Token/Abstract.php   app/code/community/Clockworkgeek/Guestcookies/Model/Token/Abstract.php
+src/app/code/community/Clockworkgeek/Guestcookies/Model/Viewed.php   app/code/community/Clockworkgeek/Guestcookies/Model/Viewed.php
+src/app/code/community/Clockworkgeek/Guestcookies/Model/Observer.php   app/code/community/Clockworkgeek/Guestcookies/Model/Observer.php
+src/app/code/community/Clockworkgeek/Guestcookies/sql/guestcookies_setup/mysql4-install-0.1.0.php   app/code/community/Clockworkgeek/Guestcookies/sql/guestcookies_setup/mysql4-install-0.1.0.php
+src/app/code/community/Clockworkgeek/Guestcookies/etc/config.xml   app/code/community/Clockworkgeek/Guestcookies/etc/config.xml
+src/app/code/community/Clockworkgeek/Guestcookies/etc/system.xml   app/code/community/Clockworkgeek/Guestcookies/etc/system.xml
+src/app/code/community/Clockworkgeek/Guestcookies/Block/Onepage/Billing.php   app/code/community/Clockworkgeek/Guestcookies/Block/Onepage/Billing.php
+src/app/code/community/Clockworkgeek/Guestcookies/Block/Onepage/Shipping.php   app/code/community/Clockworkgeek/Guestcookies/Block/Onepage/Shipping.php
+src/app/code/community/Clockworkgeek/Guestcookies/Helper/Data.php   app/code/community/Clockworkgeek/Guestcookies/Helper/Data.php
+src/app/code/community/Clockworkgeek/Guestcookies/Test/Config/Module.php   app/code/community/Clockworkgeek/Guestcookies/Test/Config/Module.php
+src/app/etc/modules/installed/Clockworkgeek_Guestcookies.xml.sample   app/etc/modules/installed/Clockworkgeek_Guestcookies.xml.sample
+src/app/locale/en_US/Clockworkgeek_Guestcookies.csv   app/locale/en_US/Clockworkgeek_Guestcookies.csv
+src/skin/frontend/base/default/css/guestcookies.css   skin/frontend/base/default/css/guestcookies.css
+src/skin/frontend/base/default/less/guestcookies.less   skin/frontend/base/default/less/guestcookies.less
+src/skin/frontend/base/default/js/guestcookies.js   skin/frontend/base/default/js/guestcookies.js
+src/spec/GuestcookiesSpec.js   spec/GuestcookiesSpec.js
+@shell cp $PROJECT/app/etc/modules/installed/Clockworkgeek_Guestcookies.xml.sample $PROJECT/app/etc/modules/Clockworkgeek_Guestcookies.xml
