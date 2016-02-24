@@ -15,7 +15,7 @@ src/app/code/community/Clockworkgeek/Guestcookies/Block/Onepage/Billing.php   ap
 src/app/code/community/Clockworkgeek/Guestcookies/Block/Onepage/Shipping.php   app/code/community/Clockworkgeek/Guestcookies/Block/Onepage/Shipping.php
 src/app/code/community/Clockworkgeek/Guestcookies/Helper/Data.php   app/code/community/Clockworkgeek/Guestcookies/Helper/Data.php
 src/app/code/community/Clockworkgeek/Guestcookies/Test/Config/Module.php   app/code/community/Clockworkgeek/Guestcookies/Test/Config/Module.php
-src/app/etc/modules/installed/Clockworkgeek_Guestcookies.xml.sample   app/etc/modules/installed/Clockworkgeek_Guestcookies.xml.sample
+src/app/etc/modules/Clockworkgeek_Guestcookies.xml   app/etc/modules/Clockworkgeek_Guestcookies.xml
 src/app/locale/en_US/Clockworkgeek_Guestcookies.csv   app/locale/en_US/Clockworkgeek_Guestcookies.csv
 src/skin/frontend/base/default/css/guestcookies.css   skin/frontend/base/default/css/guestcookies.css
 src/skin/frontend/base/default/less/guestcookies.less   skin/frontend/base/default/less/guestcookies.less
